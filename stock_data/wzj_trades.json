@@ -1,0 +1,16 @@
+{
+    "wzj": [
+        {
+            "action": "buy",
+            "quantity": 10,
+            "price": 150,
+            "date": "2025-07-01"
+        },
+        {
+            "action": "sell",
+            "quantity": 5,
+            "price": 160,
+            "date": "2025-07-10"
+        }
+    ]
+}
