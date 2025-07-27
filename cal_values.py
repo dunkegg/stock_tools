@@ -48,3 +48,6 @@ def calculate_value(person, stock_code, start_date):
     print(f"{person} 当前市值: {total_value} 元")
     print(f"从 {start_date} 开始的收益: {profit} 元")
     print(f"收益率: {profit_rate * 100:.2f}%")
+    
+if __name__ == "__main__":
+    calculate_value(person="wzj", stock_code=None, start_date="2025-01-01")
