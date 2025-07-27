@@ -166,15 +166,14 @@ if __name__ == "__main__":
     recorder.add_trade(person="wzj", stock_code="002594", stock_name="比亚迪", quantity=100, price=301.96, action="buy", date="2024-11-06")
     recorder.add_trade(person="jhh", stock_code="300456", stock_name="赛微电子", quantity=1000, price=21.8, action="sell", date="2024-10-09")
     recorder.add_trade(person="jhh", stock_code="510300", stock_name="沪深300ETF", quantity=2000, price=4.51, action="buy", date="2024-10-08")
-    recorder.add_trade(person="jhh", stock_code="002236", stock_name="大华股份", quantity=2100, price=31.16, action="buy", date="2024-10-08")
+    recorder.add_trade(person="jhh", stock_code="002236", stock_name="大华股份", quantity=2100, price=31.16, action="sell", date="2024-10-08")
     recorder.add_trade(person="jhh", stock_code="300456", stock_name="赛微电子", quantity=1000, price=23.02, action="buy", date="2024-10-08")
     recorder.add_trade(person="jhh", stock_code="300576", stock_name="容大感光", quantity=400, price=31.16, action="buy", date="2024-10-08")
     recorder.add_trade(person="jhh", stock_code="300456", stock_name="赛微电子", quantity=800, price=22.58, action="sell", date="2024-10-08")
     recorder.add_trade(person="jhh", stock_code="300456", stock_name="赛微电子", quantity=800, price=16.21, action="buy", date="2024-09-27")
-    recorder.add_trade(person="jhh", stock_code="002236", stock_name="大华股份", quantity=1400, price=15.55, action="buy", date="2024-08-26")
-    recorder.add_trade(person="jhh", stock_code="002236", stock_name="大华股份", quantity=700, price=15.58, action="buy", date="2024-08-26")
+    recorder.add_trade(person="jhh", stock_code="002236", stock_name="大华股份", quantity=1400, price=15.55, action="buy", date="2024-09-27")
+    recorder.add_trade(person="jhh", stock_code="002236", stock_name="大华股份", quantity=700, price=15.58, action="buy", date="2024-09-27")
     recorder.add_trade(person="jhh", stock_code="300576", stock_name="容大感光", quantity=400, price=31.16, action="buy", date="2024-08-26")
-    recorder.add_trade(person="jhh", stock_code="002236", stock_name="大华股份", quantity=700, price=15.58, action="buy", date="2024-08-26")
 
 
     recorder.apply_all_trades_by_date(update_trade)

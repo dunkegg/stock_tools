@@ -60,6 +60,7 @@ def update_trade(person, stock_code, stock_name, quantity, price, action, date):
         stock['avg_price'] = tmp_value / stock['quantity']
         stocks[person]['cash'] -= total_cost
         print(f" {person} 买入 {stock_code}:{stock_name}  {quantity} 股，花费{price*quantity}在 {date},剩余现金{stocks[person]['cash']}。")
+        # trades[person].append({'action': action, 'quantity': quantity,'stock code': {stock_code},'stock name': {stock_name},'price': price, 'date': date})
         trades[person].append({'action': action, 'quantity': quantity, 'price': price, 'date': date})
         stock['cur_price'] = price
     elif action == 'sell':
@@ -79,6 +80,7 @@ def update_trade(person, stock_code, stock_name, quantity, price, action, date):
         else:
             stock['avg_price'] = 0.0  # 如果卖完了，均价置为0
         
+        # trades[person].append({'action': action, 'quantity': quantity,'stock code': {stock_code},'stock name': {stock_name},'price': price, 'date': date})
         trades[person].append({'action': action, 'quantity': quantity, 'price': price, 'date': date})
         stock['cur_price'] = price
     # 保存数据
