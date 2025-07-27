@@ -62,6 +62,7 @@ def calculate_value(person, stock_code, start_date):
         for transaction in all_tractions:
             if transaction['date'] >= start_date:
                 value = transaction['quantity'] * transaction['price']
+                total_cost+=13
                 if transaction['action'] == 'buy':
                     # print(f"{person} 在 {transaction['date']} BUY : {transaction['price']}元/股， {transaction['quantity']}股， 共 {value} ")
                     total_cost += value
@@ -100,5 +101,5 @@ def calculate_value(person, stock_code, start_date):
     print("+++++++++++++++++++++")
     
 if __name__ == "__main__":
-    # calculate_value(person="wzj", stock_code=None, start_date="2024-01-01")
+    calculate_value(person="wzj", stock_code=None, start_date="2024-01-01")
     calculate_value(person="jhh", stock_code=None, start_date="2024-01-01")

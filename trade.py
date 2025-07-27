@@ -34,7 +34,7 @@ def update_trade(person, stock_code, stock_name, quantity, price, action, date):
     
     # 确保该人存在
     if person not in stocks:
-        stocks[person] = {'cash': 1000000.0}
+        stocks[person] = {'cash': 770000.0}
     if person not in trades:
         trades[person] = []
     
@@ -55,8 +55,8 @@ def update_trade(person, stock_code, stock_name, quantity, price, action, date):
             print(f"警告: {person} 现金不足，为{cash}，无法买入 {quantity} 股 {stock_code}:{stock_name} 在 {date}，操作未执行。")
             return
         # 买入时，更新股数和均价，扣除现金
-        stock['quantity'] += quantity
         tmp_value = stock['avg_price'] * stock['quantity'] + price * quantity
+        stock['quantity'] += quantity
         stock['avg_price'] = tmp_value / stock['quantity']
         stocks[person]['cash'] -= total_cost
         print(f" {person} 买入 {stock_code}:{stock_name}  {quantity} 股，花费{price*quantity}在 {date},剩余现金{stocks[person]['cash']}。")

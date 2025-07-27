@@ -1,0 +1,496 @@
+{
+    "wzj": [
+        {
+            "action": "buy",
+            "quantity": 100,
+            "price": 301.96,
+            "date": "2024-11-06"
+        },
+        {
+            "action": "sell",
+            "quantity": 100,
+            "price": 323.39,
+            "date": "2025-02-07"
+        },
+        {
+            "action": "buy",
+            "quantity": 500,
+            "price": 19.75,
+            "date": "2025-03-13"
+        },
+        {
+            "action": "buy",
+            "quantity": 500,
+            "price": 7.75,
+            "date": "2025-03-13"
+        },
+        {
+            "action": "buy",
+            "quantity": 800,
+            "price": 28.431,
+            "date": "2025-03-19"
+        },
+        {
+            "action": "buy",
+            "quantity": 5000,
+            "price": 0.918,
+            "date": "2025-04-09"
+        },
+        {
+            "action": "buy",
+            "quantity": 500,
+            "price": 106.5,
+            "date": "2025-04-10"
+        },
+        {
+            "action": "buy",
+            "quantity": 10000,
+            "price": 1.012,
+            "date": "2025-04-10"
+        },
+        {
+            "action": "buy",
+            "quantity": 10000,
+            "price": 0.974,
+            "date": "2025-04-10"
+        },
+        {
+            "action": "buy",
+            "quantity": 10000,
+            "price": 1.022,
+            "date": "2025-04-10"
+        },
+        {
+            "action": "buy",
+            "quantity": 5000,
+            "price": 22.28,
+            "date": "2025-04-10"
+        },
+        {
+            "action": "buy",
+            "quantity": 500,
+            "price": 337.0,
+            "date": "2025-04-10"
+        },
+        {
+            "action": "buy",
+            "quantity": 200,
+            "price": 42.9,
+            "date": "2025-04-14"
+        },
+        {
+            "action": "sell",
+            "quantity": 500,
+            "price": 116.2,
+            "date": "2025-04-23"
+        },
+        {
+            "action": "sell",
+            "quantity": 200,
+            "price": 47.9,
+            "date": "2025-04-23"
+        },
+        {
+            "action": "buy",
+            "quantity": 200,
+            "price": 122.2,
+            "date": "2025-05-06"
+        },
+        {
+            "action": "buy",
+            "quantity": 2000,
+            "price": 7.87,
+            "date": "2025-05-06"
+        },
+        {
+            "action": "buy",
+            "quantity": 1000,
+            "price": 45.65,
+            "date": "2025-05-06"
+        },
+        {
+            "action": "buy",
+            "quantity": 500,
+            "price": 45.05,
+            "date": "2025-05-08"
+        },
+        {
+            "action": "sell",
+            "quantity": 3000,
+            "price": 25.49,
+            "date": "2025-05-08"
+        },
+        {
+            "action": "buy",
+            "quantity": 1000,
+            "price": 42.85,
+            "date": "2025-05-09"
+        },
+        {
+            "action": "buy",
+            "quantity": 200,
+            "price": 25.8,
+            "date": "2025-05-13"
+        },
+        {
+            "action": "sell",
+            "quantity": 10000,
+            "price": 1.036,
+            "date": "2025-05-13"
+        },
+        {
+            "action": "sell",
+            "quantity": 13000,
+            "price": 1.036,
+            "date": "2025-05-13"
+        },
+        {
+            "action": "sell",
+            "quantity": 1000,
+            "price": 25.32,
+            "date": "2025-05-13"
+        },
+        {
+            "action": "buy",
+            "quantity": 200,
+            "price": 19.04,
+            "date": "2025-05-15"
+        },
+        {
+            "action": "sell",
+            "quantity": 500,
+            "price": 20.16,
+            "date": "2025-05-15"
+        },
+        {
+            "action": "buy",
+            "quantity": 1000,
+            "price": 18.935,
+            "date": "2025-05-15"
+        },
+        {
+            "action": "buy",
+            "quantity": 500,
+            "price": 18.91,
+            "date": "2025-05-15"
+        },
+        {
+            "action": "sell",
+            "quantity": 300,
+            "price": 370.1,
+            "date": "2025-05-15"
+        },
+        {
+            "action": "sell",
+            "quantity": 100,
+            "price": 371.23,
+            "date": "2025-05-15"
+        },
+        {
+            "action": "buy",
+            "quantity": 500,
+            "price": 41.75,
+            "date": "2025-05-16"
+        },
+        {
+            "action": "buy",
+            "quantity": 200,
+            "price": 123.9,
+            "date": "2025-05-16"
+        },
+        {
+            "action": "buy",
+            "quantity": 100,
+            "price": 26.74,
+            "date": "2025-05-19"
+        },
+        {
+            "action": "buy",
+            "quantity": 100,
+            "price": 356.1,
+            "date": "2025-05-21"
+        },
+        {
+            "action": "sell",
+            "quantity": 200,
+            "price": 27.1,
+            "date": "2025-05-21"
+        },
+        {
+            "action": "buy",
+            "quantity": 2000,
+            "price": 4.87,
+            "date": "2025-05-21"
+        },
+        {
+            "action": "buy",
+            "quantity": 4000,
+            "price": 4.86,
+            "date": "2025-05-21"
+        },
+        {
+            "action": "sell",
+            "quantity": 100,
+            "price": 397.96,
+            "date": "2025-05-21"
+        },
+        {
+            "action": "sell",
+            "quantity": 500,
+            "price": 26.14,
+            "date": "2025-05-26"
+        },
+        {
+            "action": "sell",
+            "quantity": 2000,
+            "price": 1.021,
+            "date": "2025-05-27"
+        },
+        {
+            "action": "buy",
+            "quantity": 100,
+            "price": 114.1,
+            "date": "2025-06-03"
+        },
+        {
+            "action": "sell",
+            "quantity": 800,
+            "price": 28.13,
+            "date": "2025-06-06"
+        },
+        {
+            "action": "sell",
+            "quantity": 10000,
+            "price": 1.026,
+            "date": "2025-06-06"
+        },
+        {
+            "action": "sell",
+            "quantity": 100,
+            "price": 354,
+            "date": "2025-06-09"
+        },
+        {
+            "action": "buy",
+            "quantity": 200,
+            "price": 31.15,
+            "date": "2025-06-09"
+        },
+        {
+            "action": "buy",
+            "quantity": 200,
+            "price": 31.15,
+            "date": "2025-06-09"
+        },
+        {
+            "action": "buy",
+            "quantity": 2000,
+            "price": 6.84,
+            "date": "2025-06-10"
+        },
+        {
+            "action": "buy",
+            "quantity": 100,
+            "price": 65.8,
+            "date": "2025-06-11"
+        },
+        {
+            "action": "buy",
+            "quantity": 200,
+            "price": 363.2,
+            "date": "2025-06-11"
+        },
+        {
+            "action": "buy",
+            "quantity": 100,
+            "price": 341.1,
+            "date": "2025-06-20"
+        },
+        {
+            "action": "buy",
+            "quantity": 200,
+            "price": 57.05,
+            "date": "2025-06-26"
+        },
+        {
+            "action": "buy",
+            "quantity": 200,
+            "price": 57.1,
+            "date": "2025-06-26"
+        },
+        {
+            "action": "buy",
+            "quantity": 200,
+            "price": 26.51,
+            "date": "2025-06-26"
+        },
+        {
+            "action": "buy",
+            "quantity": 800,
+            "price": 26.43,
+            "date": "2025-06-26"
+        },
+        {
+            "action": "sell",
+            "quantity": 6000,
+            "price": 5,
+            "date": "2025-06-27"
+        },
+        {
+            "action": "buy",
+            "quantity": 100,
+            "price": 333.61,
+            "date": "2025-06-27"
+        },
+        {
+            "action": "sell",
+            "quantity": 400,
+            "price": 58.75,
+            "date": "2025-06-30"
+        },
+        {
+            "action": "buy",
+            "quantity": 400,
+            "price": 24.9,
+            "date": "2025-07-03"
+        },
+        {
+            "action": "sell",
+            "quantity": 400,
+            "price": 29.66,
+            "date": "2025-07-03"
+        },
+        {
+            "action": "sell",
+            "quantity": 100,
+            "price": 29.63,
+            "date": "2025-07-09"
+        },
+        {
+            "action": "sell",
+            "quantity": 2000,
+            "price": 45.85,
+            "date": "2025-07-11"
+        },
+        {
+            "action": "buy",
+            "quantity": 900,
+            "price": 36.3,
+            "date": "2025-07-11"
+        },
+        {
+            "action": "sell",
+            "quantity": 4000,
+            "price": 7.22,
+            "date": "2025-07-15"
+        },
+        {
+            "action": "buy",
+            "quantity": 300,
+            "price": 30.87,
+            "date": "2025-07-15"
+        },
+        {
+            "action": "sell",
+            "quantity": 100,
+            "price": 65.32,
+            "date": "2025-07-17"
+        },
+        {
+            "action": "buy",
+            "quantity": 100,
+            "price": 327.68,
+            "date": "2025-07-17"
+        },
+        {
+            "action": "buy",
+            "quantity": 2000,
+            "price": 7.91,
+            "date": "2025-07-18"
+        },
+        {
+            "action": "buy",
+            "quantity": 700,
+            "price": 31.68,
+            "date": "2025-07-18"
+        },
+        {
+            "action": "sell",
+            "quantity": 100,
+            "price": 27.49,
+            "date": "2025-07-18"
+        },
+        {
+            "action": "buy",
+            "quantity": 2000,
+            "price": 7.79,
+            "date": "2025-07-18"
+        },
+        {
+            "action": "buy",
+            "quantity": 900,
+            "price": 15.038,
+            "date": "2025-07-22"
+        },
+        {
+            "action": "sell",
+            "quantity": 100,
+            "price": 120.7,
+            "date": "2025-07-23"
+        },
+        {
+            "action": "buy",
+            "quantity": 300,
+            "price": 21.64,
+            "date": "2025-07-23"
+        },
+        {
+            "action": "buy",
+            "quantity": 300,
+            "price": 24.67,
+            "date": "2025-07-23"
+        },
+        {
+            "action": "buy",
+            "quantity": 100,
+            "price": 337.58,
+            "date": "2025-07-24"
+        },
+        {
+            "action": "buy",
+            "quantity": 400,
+            "price": 13.33,
+            "date": "2025-07-24"
+        },
+        {
+            "action": "sell",
+            "quantity": 500,
+            "price": 50.75,
+            "date": "2025-07-24"
+        },
+        {
+            "action": "sell",
+            "quantity": 100,
+            "price": 120.9,
+            "date": "2025-07-24"
+        },
+        {
+            "action": "buy",
+            "quantity": 100,
+            "price": 34.68,
+            "date": "2025-07-24"
+        },
+        {
+            "action": "sell",
+            "quantity": 500,
+            "price": 49.7,
+            "date": "2025-07-24"
+        },
+        {
+            "action": "buy",
+            "quantity": 200,
+            "price": 35.19,
+            "date": "2025-07-25"
+        }
+    ]
+}

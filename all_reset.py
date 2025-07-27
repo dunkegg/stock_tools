@@ -19,7 +19,7 @@ if __name__ == "__main__":
     recorder.add_trade(person="wzj", stock_code="09988", stock_name="阿里巴巴-W", quantity=100, price=120.70, action="sell", date="2025-07-23")
     recorder.add_trade(person="wzj", stock_code="000519", stock_name="中兵红箭", quantity=300, price=21.64, action="buy", date="2025-07-23")
     recorder.add_trade(person="wzj", stock_code="300293", stock_name="蓝英装备", quantity=300, price=24.67, action="buy", date="2025-07-23")
-    recorder.add_trade(person="wzj", stock_code="300003", stock_name="乐普医疗", quantity=200, price=15, action="buy", date="2025-07-22")
+    recorder.add_trade(person="wzj", stock_code="300003", stock_name="乐普医疗", quantity=900, price=15.038, action="buy", date="2025-07-22")
     recorder.add_trade(person="wzj", stock_code="603662", stock_name="柯力传感", quantity=100, price=65.32, action="sell", date="2025-07-17") 
     recorder.add_trade(person="wzj", stock_code="000547", stock_name="航天发展", quantity=2000, price=7.91, action="buy", date="2025-07-18")
     recorder.add_trade(person="wzj", stock_code="002261", stock_name="拓维信息", quantity=700, price=31.68, action="buy", date="2025-07-18")

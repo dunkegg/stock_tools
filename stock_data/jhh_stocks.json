@@ -1,0 +1,155 @@
+{
+    "jhh": {
+        "cash": 701852.2,
+        "300576": {
+            "name": "容大感光",
+            "quantity": 2300,
+            "avg_price": 38.13608695652174,
+            "cur_price": 37.98
+        },
+        "300456": {
+            "name": "赛微电子",
+            "quantity": 0,
+            "avg_price": 0.0,
+            "cur_price": 21.8
+        },
+        "002236": {
+            "name": "大华股份",
+            "quantity": 0,
+            "avg_price": 0.0,
+            "cur_price": 31.16
+        },
+        "510300": {
+            "name": "沪深300ETF",
+            "quantity": 2000,
+            "avg_price": 4.51,
+            "cur_price": 4.203
+        },
+        "603496": {
+            "name": "恒为科技",
+            "quantity": 1800,
+            "avg_price": 27.31,
+            "cur_price": 29.95
+        },
+        "300077": {
+            "name": "国民技术",
+            "quantity": 1200,
+            "avg_price": 24.456666666666667,
+            "cur_price": 25.8
+        },
+        "000878": {
+            "name": "云南铜业",
+            "quantity": 0,
+            "avg_price": 0.0,
+            "cur_price": 12.68
+        },
+        "002346": {
+            "name": "拓中股份",
+            "quantity": 0,
+            "avg_price": 0.0,
+            "cur_price": 11.68
+        },
+        "002414": {
+            "name": "高德红外",
+            "quantity": 0,
+            "avg_price": 0.0,
+            "cur_price": 7.02
+        },
+        "300688": {
+            "name": "创业黑马",
+            "quantity": 100,
+            "avg_price": 36.29,
+            "cur_price": 34.59
+        },
+        "300166": {
+            "name": "东方国信",
+            "quantity": 0,
+            "avg_price": 0.0,
+            "cur_price": 13.69
+        },
+        "300063": {
+            "name": "天龙集团",
+            "quantity": 4100,
+            "avg_price": 10.672682926829268,
+            "cur_price": 8.58
+        },
+        "300276": {
+            "name": "三丰智能",
+            "quantity": 1500,
+            "avg_price": 14.466666666666667,
+            "cur_price": 11.07
+        },
+        "000333": {
+            "name": "美的集团",
+            "quantity": 100,
+            "avg_price": 73.18,
+            "cur_price": 73.23
+        },
+        "159338": {
+            "name": "中证A500ETF",
+            "quantity": 0,
+            "avg_price": 0.0,
+            "cur_price": 0.944
+        },
+        "600111": {
+            "name": "北方稀土",
+            "quantity": 0,
+            "avg_price": 0.0,
+            "cur_price": 24.68
+        },
+        "09868": {
+            "name": "小鹏汽车-W",
+            "quantity": 200,
+            "avg_price": 73.725,
+            "cur_price": 75.3
+        },
+        "02157": {
+            "name": "乐普生物-B",
+            "quantity": 0,
+            "avg_price": 0.0,
+            "cur_price": 4.76
+        },
+        "600760": {
+            "name": "中航沈飞",
+            "quantity": 0,
+            "avg_price": 0.0,
+            "cur_price": 60.89
+        },
+        "601606": {
+            "name": "长城军工",
+            "quantity": 200,
+            "avg_price": 30.795,
+            "cur_price": 28.72
+        },
+        "600456": {
+            "name": "宝钛股份",
+            "quantity": 200,
+            "avg_price": 32.38,
+            "cur_price": 32.03
+        },
+        "000733": {
+            "name": "振华科技",
+            "quantity": 1400,
+            "avg_price": 49.95,
+            "cur_price": 49.09
+        },
+        "300030": {
+            "name": "阳普医疗",
+            "quantity": 0,
+            "avg_price": 0.0,
+            "cur_price": 7.72
+        },
+        "000519": {
+            "name": "中兵红箭",
+            "quantity": 100,
+            "avg_price": 22.34,
+            "cur_price": 21.74
+        },
+        "300293": {
+            "name": "蓝英装备",
+            "quantity": 200,
+            "avg_price": 27.12,
+            "cur_price": 27.01
+        }
+    }
+}
