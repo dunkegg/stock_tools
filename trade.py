@@ -3,11 +3,12 @@ import os
 from dataclasses import dataclass, field
 from typing import List
 from datetime import datetime
-
+import shutil
 # 创建目录
 def create_directory(directory):
-    if not os.path.exists(directory):
-        os.makedirs(directory)
+    if os.path.exists(directory):
+        shutil.rmtree(directory)  # 删除整个目录
+    os.makedirs(directory)  # 创建空目录
 
 # 加载数据
 def load_data(filename):
@@ -60,8 +61,8 @@ def update_trade(person, stock_code, stock_name, quantity, price, action, date):
         stock['avg_price'] = tmp_value / stock['quantity']
         stocks[person]['cash'] -= total_cost
         print(f" {person} 买入 {stock_code}:{stock_name}  {quantity} 股，花费{price*quantity}在 {date},剩余现金{stocks[person]['cash']}。")
-        # trades[person].append({'action': action, 'quantity': quantity,'stock code': {stock_code},'stock name': {stock_name},'price': price, 'date': date})
-        trades[person].append({'action': action, 'quantity': quantity, 'price': price, 'date': date})
+        trades[person].append({'action': action, 'quantity': quantity,'stock code': stock_code,'stock name': stock_name,'price': price, 'date': date})
+        # trades[person].append({'action': action, 'quantity': quantity, 'price': price, 'date': date})
         stock['cur_price'] = price
     elif action == 'sell':
         # 卖出时，检查是否有足够的数量
@@ -80,8 +81,8 @@ def update_trade(person, stock_code, stock_name, quantity, price, action, date):
         else:
             stock['avg_price'] = 0.0  # 如果卖完了，均价置为0
         
-        # trades[person].append({'action': action, 'quantity': quantity,'stock code': {stock_code},'stock name': {stock_name},'price': price, 'date': date})
-        trades[person].append({'action': action, 'quantity': quantity, 'price': price, 'date': date})
+        trades[person].append({'action': action, 'quantity': quantity,'stock code': stock_code,'stock name': stock_name,'price': price, 'date': date})
+        # trades[person].append({'action': action, 'quantity': quantity, 'price': price, 'date': date})
         stock['cur_price'] = price
     # 保存数据
     save_data(stocks_file, stocks)

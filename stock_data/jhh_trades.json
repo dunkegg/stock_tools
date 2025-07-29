@@ -3,450 +3,608 @@
         {
             "action": "buy",
             "quantity": 400,
+            "stock code": "300576",
+            "stock name": "容大感光",
             "price": 31.16,
             "date": "2024-08-26"
         },
         {
             "action": "buy",
             "quantity": 800,
+            "stock code": "300456",
+            "stock name": "赛微电子",
             "price": 16.21,
             "date": "2024-09-27"
         },
         {
             "action": "buy",
             "quantity": 1400,
+            "stock code": "002236",
+            "stock name": "大华股份",
             "price": 15.55,
             "date": "2024-09-27"
         },
         {
             "action": "buy",
             "quantity": 700,
+            "stock code": "002236",
+            "stock name": "大华股份",
             "price": 15.58,
             "date": "2024-09-27"
         },
         {
             "action": "buy",
             "quantity": 2000,
+            "stock code": "510300",
+            "stock name": "沪深300ETF",
             "price": 4.51,
             "date": "2024-10-08"
         },
         {
             "action": "sell",
             "quantity": 2100,
-            "price": 31.16,
+            "stock code": "002236",
+            "stock name": "大华股份",
+            "price": 18.2,
             "date": "2024-10-08"
         },
         {
             "action": "buy",
             "quantity": 1000,
+            "stock code": "300456",
+            "stock name": "赛微电子",
             "price": 23.02,
             "date": "2024-10-08"
         },
         {
-            "action": "buy",
+            "action": "sell",
             "quantity": 400,
+            "stock code": "300576",
+            "stock name": "容大感光",
             "price": 31.16,
             "date": "2024-10-08"
         },
         {
             "action": "sell",
             "quantity": 800,
+            "stock code": "300456",
+            "stock name": "赛微电子",
             "price": 22.58,
             "date": "2024-10-08"
         },
         {
             "action": "sell",
             "quantity": 1000,
+            "stock code": "300456",
+            "stock name": "赛微电子",
             "price": 21.8,
             "date": "2024-10-09"
         },
         {
             "action": "buy",
             "quantity": 700,
+            "stock code": "603496",
+            "stock name": "恒为科技",
             "price": 23.39,
             "date": "2025-01-13"
         },
         {
             "action": "buy",
             "quantity": 500,
+            "stock code": "300077",
+            "stock name": "国民技术",
             "price": 21.15,
             "date": "2025-01-13"
         },
         {
             "action": "buy",
             "quantity": 1000,
+            "stock code": "000878",
+            "stock name": "云南铜业",
             "price": 12.2,
             "date": "2025-01-13"
         },
         {
             "action": "buy",
             "quantity": 600,
+            "stock code": "300077",
+            "stock name": "国民技术",
             "price": 22.44,
             "date": "2025-01-14"
         },
         {
             "action": "buy",
             "quantity": 400,
+            "stock code": "300077",
+            "stock name": "国民技术",
             "price": 22.6,
             "date": "2025-01-14"
         },
         {
             "action": "buy",
             "quantity": 1500,
+            "stock code": "300077",
+            "stock name": "国民技术",
             "price": 25.04,
             "date": "2025-01-16"
         },
         {
             "action": "sell",
             "quantity": 700,
+            "stock code": "603496",
+            "stock name": "恒为科技",
             "price": 23.476,
             "date": "2025-01-16"
         },
         {
             "action": "sell",
             "quantity": 1500,
+            "stock code": "300077",
+            "stock name": "国民技术",
             "price": 23.66,
             "date": "2025-01-16"
         },
         {
             "action": "sell",
             "quantity": 1000,
+            "stock code": "000878",
+            "stock name": "云南铜业",
             "price": 12.68,
             "date": "2025-01-16"
         },
         {
             "action": "buy",
             "quantity": 500,
+            "stock code": "002346",
+            "stock name": "拓中股份",
             "price": 11.77,
             "date": "2025-01-23"
         },
         {
             "action": "buy",
             "quantity": 1000,
+            "stock code": "002414",
+            "stock name": "高德红外",
             "price": 6.79,
             "date": "2025-01-23"
         },
         {
             "action": "sell",
             "quantity": 1000,
+            "stock code": "002414",
+            "stock name": "高德红外",
             "price": 7.02,
             "date": "2025-02-07"
         },
         {
             "action": "buy",
             "quantity": 100,
+            "stock code": "300688",
+            "stock name": "创业黑马",
             "price": 36.29,
             "date": "2025-02-14"
         },
         {
             "action": "buy",
             "quantity": 1000,
+            "stock code": "300166",
+            "stock name": "东方国信",
             "price": 13.37,
             "date": "2025-02-14"
         },
         {
             "action": "buy",
             "quantity": 1000,
+            "stock code": "300166",
+            "stock name": "东方国信",
             "price": 13.33,
             "date": "2025-02-14"
         },
         {
             "action": "buy",
             "quantity": 1000,
+            "stock code": "300166",
+            "stock name": "东方国信",
             "price": 13.32,
             "date": "2025-02-14"
         },
         {
             "action": "sell",
             "quantity": 3000,
+            "stock code": "300166",
+            "stock name": "东方国信",
             "price": 13.69,
             "date": "2025-02-24"
         },
         {
             "action": "sell",
             "quantity": 1500,
+            "stock code": "300077",
+            "stock name": "国民技术",
             "price": 29.28,
             "date": "2025-02-24"
         },
         {
             "action": "buy",
             "quantity": 2600,
+            "stock code": "300063",
+            "stock name": "天龙集团",
             "price": 11.18,
             "date": "2025-02-24"
         },
         {
             "action": "buy",
             "quantity": 1000,
+            "stock code": "002346",
+            "stock name": "拓中股份",
             "price": 11.51,
             "date": "2025-02-26"
         },
         {
             "action": "buy",
             "quantity": 1000,
+            "stock code": "300063",
+            "stock name": "天龙集团",
             "price": 10.44,
             "date": "2025-02-26"
         },
         {
             "action": "buy",
             "quantity": 1000,
+            "stock code": "300077",
+            "stock name": "国民技术",
             "price": 29.44,
             "date": "2025-02-27"
         },
         {
             "action": "buy",
             "quantity": 1000,
+            "stock code": "300276",
+            "stock name": "三丰智能",
             "price": 15.73,
             "date": "2025-02-27"
         },
         {
             "action": "sell",
             "quantity": 1000,
+            "stock code": "300077",
+            "stock name": "国民技术",
             "price": 27.16,
             "date": "2025-02-28"
         },
         {
             "action": "buy",
             "quantity": 500,
+            "stock code": "300077",
+            "stock name": "国民技术",
             "price": 23.83,
             "date": "2025-04-03"
         },
         {
             "action": "buy",
             "quantity": 500,
+            "stock code": "000333",
+            "stock name": "美的集团",
             "price": 68.474,
             "date": "2025-04-08"
         },
         {
             "action": "buy",
             "quantity": 1000,
+            "stock code": "159338",
+            "stock name": "中证A500ETF",
             "price": 0.873,
             "date": "2025-04-08"
         },
         {
             "action": "buy",
             "quantity": 100,
+            "stock code": "300077",
+            "stock name": "国民技术",
             "price": 19.96,
             "date": "2025-04-08"
         },
         {
             "action": "buy",
             "quantity": 1000,
+            "stock code": "300077",
+            "stock name": "国民技术",
             "price": 19.8,
             "date": "2025-04-08"
         },
         {
             "action": "sell",
             "quantity": 1500,
+            "stock code": "002346",
+            "stock name": "拓中股份",
             "price": 11.68,
             "date": "2025-04-10"
         },
         {
             "action": "buy",
             "quantity": 500,
+            "stock code": "300276",
+            "stock name": "三丰智能",
             "price": 11.94,
             "date": "2025-04-10"
         },
         {
             "action": "buy",
             "quantity": 500,
+            "stock code": "600111",
+            "stock name": "北方稀土",
             "price": 25.1,
             "date": "2025-04-11"
         },
         {
             "action": "buy",
             "quantity": 1000,
+            "stock code": "300576",
+            "stock name": "容大感光",
             "price": 42.0,
             "date": "2025-04-11"
         },
         {
             "action": "sell",
             "quantity": 1600,
+            "stock code": "300077",
+            "stock name": "国民技术",
             "price": 25.54,
             "date": "2025-04-23"
         },
         {
             "action": "buy",
+            "quantity": 300,
+            "stock code": "300576",
+            "stock name": "容大感光",
+            "price": 0,
+            "date": "2025-04-25"
+        },
+        {
+            "action": "buy",
             "quantity": 500,
+            "stock code": "300576",
+            "stock name": "容大感光",
             "price": 41.57,
             "date": "2025-04-25"
         },
         {
             "action": "buy",
             "quantity": 500,
+            "stock code": "603496",
+            "stock name": "恒为科技",
             "price": 27.26,
             "date": "2025-05-06"
         },
         {
             "action": "buy",
             "quantity": 100,
+            "stock code": "603496",
+            "stock name": "恒为科技",
             "price": 27.45,
             "date": "2025-05-08"
         },
         {
             "action": "buy",
             "quantity": 1000,
+            "stock code": "603496",
+            "stock name": "恒为科技",
             "price": 27.7,
             "date": "2025-05-08"
         },
         {
             "action": "buy",
             "quantity": 1000,
+            "stock code": "300077",
+            "stock name": "国民技术",
             "price": 24.66,
             "date": "2025-05-09"
         },
         {
             "action": "sell",
             "quantity": 500,
+            "stock code": "600111",
+            "stock name": "北方稀土",
             "price": 24.68,
             "date": "2025-05-15"
         },
         {
             "action": "buy",
             "quantity": 100,
+            "stock code": "603496",
+            "stock name": "恒为科技",
             "price": 25.84,
             "date": "2025-05-21"
         },
         {
             "action": "buy",
             "quantity": 100,
+            "stock code": "300077",
+            "stock name": "国民技术",
             "price": 23.62,
             "date": "2025-05-23"
         },
         {
             "action": "buy",
             "quantity": 100,
+            "stock code": "09868",
+            "stock name": "小鹏汽车-W",
             "price": 76.15,
             "date": "2025-05-26"
         },
         {
             "action": "buy",
             "quantity": 1000,
+            "stock code": "02157",
+            "stock name": "乐普生物-B",
             "price": 4.27,
             "date": "2025-05-26"
         },
         {
             "action": "buy",
             "quantity": 100,
+            "stock code": "603496",
+            "stock name": "恒为科技",
             "price": 24.99,
             "date": "2025-05-26"
         },
         {
             "action": "sell",
             "quantity": 200,
+            "stock code": "000333",
+            "stock name": "美的集团",
             "price": 78.35,
             "date": "2025-05-26"
         },
         {
             "action": "sell",
             "quantity": 300,
+            "stock code": "000333",
+            "stock name": "美的集团",
             "price": 77.95,
             "date": "2025-05-26"
         },
         {
             "action": "buy",
             "quantity": 100,
+            "stock code": "300077",
+            "stock name": "国民技术",
             "price": 23.26,
             "date": "2025-05-26"
         },
         {
             "action": "sell",
             "quantity": 1000,
+            "stock code": "02157",
+            "stock name": "乐普生物-B",
             "price": 4.76,
             "date": "2025-06-03"
         },
         {
             "action": "sell",
             "quantity": 1000,
+            "stock code": "159338",
+            "stock name": "中证A500ETF",
             "price": 0.944,
             "date": "2025-06-06"
         },
         {
             "action": "buy",
             "quantity": 500,
+            "stock code": "300063",
+            "stock name": "天龙集团",
             "price": 8.5,
             "date": "2025-06-11"
         },
         {
             "action": "buy",
             "quantity": 100,
+            "stock code": "000333",
+            "stock name": "美的集团",
             "price": 73.18,
             "date": "2025-06-26"
         },
         {
             "action": "buy",
             "quantity": 100,
+            "stock code": "09868",
+            "stock name": "小鹏汽车-W",
             "price": 71.3,
             "date": "2025-06-27"
         },
         {
             "action": "buy",
             "quantity": 200,
+            "stock code": "600760",
+            "stock name": "中航沈飞",
             "price": 57.8,
             "date": "2025-06-30"
         },
         {
             "action": "buy",
             "quantity": 100,
+            "stock code": "601606",
+            "stock name": "长城军工",
             "price": 31.0,
             "date": "2025-07-02"
         },
         {
             "action": "buy",
             "quantity": 200,
+            "stock code": "600760",
+            "stock name": "中航沈飞",
             "price": 57.46,
             "date": "2025-07-02"
         },
         {
             "action": "buy",
             "quantity": 200,
+            "stock code": "600456",
+            "stock name": "宝钛股份",
             "price": 32.38,
             "date": "2025-07-02"
         },
         {
             "action": "buy",
-            "quantity": 900,
+            "quantity": 1200,
+            "stock code": "000733",
+            "stock name": "振华科技",
             "price": 49.9,
             "date": "2025-07-02"
         },
         {
             "action": "buy",
             "quantity": 300,
+            "stock code": "300030",
+            "stock name": "阳普医疗",
             "price": 8.5,
             "date": "2025-07-02"
         },
         {
             "action": "buy",
             "quantity": 100,
+            "stock code": "000519",
+            "stock name": "中兵红箭",
             "price": 22.34,
             "date": "2025-07-02"
         },
         {
             "action": "buy",
             "quantity": 200,
+            "stock code": "300293",
+            "stock name": "蓝英装备",
             "price": 27.12,
             "date": "2025-07-02"
         },
         {
             "action": "buy",
             "quantity": 100,
+            "stock code": "601606",
+            "stock name": "长城军工",
             "price": 30.59,
             "date": "2025-07-03"
         },
         {
-            "action": "buy",
+            "action": "sell",
             "quantity": 500,
+            "stock code": "000733",
+            "stock name": "振华科技",
             "price": 50.04,
             "date": "2025-07-03"
         },
         {
             "action": "sell",
             "quantity": 300,
+            "stock code": "300030",
+            "stock name": "阳普医疗",
             "price": 7.72,
             "date": "2025-07-03"
         },
         {
             "action": "sell",
             "quantity": 400,
+            "stock code": "600760",
+            "stock name": "中航沈飞",
             "price": 60.89,
             "date": "2025-07-09"
         }

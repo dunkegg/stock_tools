@@ -1,11 +1,11 @@
 {
     "wzj": {
-        "cash": 601921.2,
+        "cash": 268285.99999999994,
         "002594": {
             "name": "比亚迪",
-            "quantity": 600,
-            "avg_price": 344.395,
-            "cur_price": 337.93
+            "quantity": 1800,
+            "avg_price": 344.498,
+            "cur_price": 111.43
         },
         "601225": {
             "name": "陕西煤业",
@@ -16,8 +16,8 @@
         "600707": {
             "name": "彩虹股份",
             "quantity": 500,
-            "avg_price": 7.75,
-            "cur_price": 6.41
+            "avg_price": 7.76,
+            "cur_price": 6.3
         },
         "605589": {
             "name": "圣泉集团",
@@ -34,8 +34,8 @@
         "09988": {
             "name": "阿里巴巴-W",
             "quantity": 300,
-            "avg_price": 121.56666666666666,
-            "cur_price": 120.9
+            "avg_price": 107.74,
+            "cur_price": 119.4
         },
         "512480": {
             "name": "半导体ETF",
@@ -82,8 +82,8 @@
         "603078": {
             "name": "江化微",
             "quantity": 1700,
-            "avg_price": 18.94,
-            "cur_price": 18.98
+            "avg_price": 18.889,
+            "cur_price": 18.76
         },
         "002126": {
             "name": "银轮股份",
@@ -100,8 +100,8 @@
         "002261": {
             "name": "拓维信息",
             "quantity": 1400,
-            "avg_price": 31.355,
-            "cur_price": 32.4
+            "avg_price": 31.37,
+            "cur_price": 32.13
         },
         "603662": {
             "name": "柯力传感",
@@ -112,56 +112,86 @@
         "002050": {
             "name": "三花智控",
             "quantity": 1000,
-            "avg_price": 26.446,
-            "cur_price": 27.07
+            "avg_price": 26.457,
+            "cur_price": 27.13
         },
         "600988": {
             "name": "赤峰黄金",
             "quantity": 400,
-            "avg_price": 24.9,
-            "cur_price": 23.75
+            "avg_price": 24.92,
+            "cur_price": 23.28
         },
         "300576": {
             "name": "容大感光",
             "quantity": 900,
-            "avg_price": 36.3,
-            "cur_price": 37.98
+            "avg_price": 35.314,
+            "cur_price": 38.15
         },
         "000547": {
             "name": "航天发展",
             "quantity": 4000,
-            "avg_price": 7.85,
-            "cur_price": 8.2
-        },
-        "300003": {
-            "name": "乐普医疗",
-            "quantity": 900,
-            "avg_price": 15.038,
-            "cur_price": 15.75
+            "avg_price": 7.853,
+            "cur_price": 8.28
         },
         "000519": {
             "name": "中兵红箭",
-            "quantity": 300,
-            "avg_price": 21.64,
-            "cur_price": 21.74
+            "quantity": 600,
+            "avg_price": 21.731,
+            "cur_price": 22.26
+        },
+        "300003": {
+            "name": "乐普医疗",
+            "quantity": 0,
+            "avg_price": 0.0,
+            "cur_price": 15.52
         },
         "300293": {
             "name": "蓝英装备",
-            "quantity": 300,
-            "avg_price": 24.67,
-            "cur_price": 27.01
+            "quantity": 600,
+            "avg_price": 25.881,
+            "cur_price": 26.49
         },
         "002860": {
             "name": "星帅尔",
             "quantity": 400,
-            "avg_price": 13.33,
-            "cur_price": 13.19
+            "avg_price": 13.343,
+            "cur_price": 12.78
         },
         "600150": {
             "name": "中国船舶",
             "quantity": 300,
-            "avg_price": 35.02,
-            "cur_price": 35.13
+            "avg_price": 35.054,
+            "cur_price": 34.94
+        },
+        "01024": {
+            "name": "快手-W",
+            "quantity": 400,
+            "avg_price": 107.74,
+            "cur_price": 71
+        },
+        "600760": {
+            "name": "中航沈飞",
+            "quantity": 100,
+            "avg_price": 64.321,
+            "cur_price": 65.85
+        },
+        "603893": {
+            "name": "瑞芯微",
+            "quantity": 100,
+            "avg_price": 162.742,
+            "cur_price": 166.71
+        },
+        "300624": {
+            "name": "万兴科技",
+            "quantity": 400,
+            "avg_price": 73.82,
+            "cur_price": 78.9
+        },
+        "300229": {
+            "name": "拓尔思",
+            "quantity": 500,
+            "avg_price": 22.72,
+            "cur_price": 24.11
         }
     }
 }

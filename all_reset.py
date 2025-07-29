@@ -1,4 +1,4 @@
-from cal_values import calculate_value
+# from cal_values import calculate_value
 from trade import update_trade, create_directory, TradeRecorder
 # 示例用法
 if __name__ == "__main__":
@@ -6,6 +6,21 @@ if __name__ == "__main__":
     create_directory("stock_data")
 
     recorder = TradeRecorder()
+
+    recorder.add_trade(person="wzj", stock_code="01024", stock_name="快手-W", quantity=100, price=70.85, action="buy", date="2025-07-29")
+    recorder.add_trade(person="wzj", stock_code="002594", stock_name="比亚迪", quantity=1200, price=0, action="buy", date="2025-07-29")
+    recorder.add_trade(person="wzj", stock_code="300003", stock_name="乐普医疗", quantity=900, price=15.52, action="sell", date="2025-07-28")
+    recorder.add_trade(person="wzj", stock_code="01024", stock_name="快手-W", quantity=100, price=72.85, action="buy", date="2025-07-28")
+    recorder.add_trade(person="wzj", stock_code="01024", stock_name="快手-W", quantity=200, price=73.85, action="buy", date="2025-07-28")
+    recorder.add_trade(person="wzj", stock_code="300293", stock_name="蓝英装备", quantity=300, price=26.33, action="buy", date="2025-07-28")
+    recorder.add_trade(person="wzj", stock_code="600760", stock_name="中航沈飞", quantity=100, price=64.27, action="buy", date="2025-07-28")
+    recorder.add_trade(person="wzj", stock_code="603893", stock_name="瑞芯微", quantity=100, price=162.69, action="buy", date="2025-07-28")
+
+    recorder.add_trade(person="wzj", stock_code="300624", stock_name="万兴科技", quantity=100, price=76.15, action="buy", date="2025-07-28")
+    recorder.add_trade(person="wzj", stock_code="300624", stock_name="万兴科技", quantity=100, price=74.04, action="buy", date="2025-07-28")
+    recorder.add_trade(person="wzj", stock_code="300624", stock_name="万兴科技", quantity=100, price=73.1, action="buy", date="2025-07-28")
+    recorder.add_trade(person="wzj", stock_code="300624", stock_name="万兴科技", quantity=100, price=71.79, action="buy", date="2025-07-28")
+    recorder.add_trade(person="wzj", stock_code="300229", stock_name="拓尔思", quantity=500, price=22.71, action="buy", date="2025-07-28")
 
 
     recorder.add_trade(person="wzj", stock_code="600150", stock_name="中国船舶", quantity=200, price=35.19, action="buy", date="2025-07-25")
@@ -18,8 +33,11 @@ if __name__ == "__main__":
     recorder.add_trade(person="wzj", stock_code="00981", stock_name="中芯国际", quantity=500, price=49.7, action="sell", date="2025-07-24")
     recorder.add_trade(person="wzj", stock_code="09988", stock_name="阿里巴巴-W", quantity=100, price=120.70, action="sell", date="2025-07-23")
     recorder.add_trade(person="wzj", stock_code="000519", stock_name="中兵红箭", quantity=300, price=21.64, action="buy", date="2025-07-23")
+    
     recorder.add_trade(person="wzj", stock_code="300293", stock_name="蓝英装备", quantity=300, price=24.67, action="buy", date="2025-07-23")
     recorder.add_trade(person="wzj", stock_code="300003", stock_name="乐普医疗", quantity=900, price=15.038, action="buy", date="2025-07-22")
+    recorder.add_trade(person="wzj", stock_code="000519", stock_name="中兵红箭", quantity=300, price=21.57, action="buy", date="2025-07-21")
+    
     recorder.add_trade(person="wzj", stock_code="603662", stock_name="柯力传感", quantity=100, price=65.32, action="sell", date="2025-07-17") 
     recorder.add_trade(person="wzj", stock_code="000547", stock_name="航天发展", quantity=2000, price=7.91, action="buy", date="2025-07-18")
     recorder.add_trade(person="wzj", stock_code="002261", stock_name="拓维信息", quantity=700, price=31.68, action="buy", date="2025-07-18")
@@ -36,13 +54,13 @@ if __name__ == "__main__":
     recorder.add_trade(person="wzj", stock_code="300731", stock_name="科创新源", quantity=100, price=29.63, action="sell", date="2025-07-09")   
     recorder.add_trade(person="jhh", stock_code="601606", stock_name="长城军工", quantity=100, price=30.59, action="buy", date="2025-07-03")
     recorder.add_trade(person="wzj", stock_code="600988", stock_name="赤峰黄金", quantity=400, price=24.9, action="buy", date="2025-07-03")
-    recorder.add_trade(person="jhh", stock_code="000733", stock_name="振华科技", quantity=500, price=50.04, action="buy", date="2025-07-03")
+    recorder.add_trade(person="jhh", stock_code="000733", stock_name="振华科技", quantity=500, price=50.04, action="sell", date="2025-07-03")
     recorder.add_trade(person="jhh", stock_code="300030", stock_name="阳普医疗", quantity=300, price=7.72, action="sell", date="2025-07-03")
     recorder.add_trade(person="wzj", stock_code="300731", stock_name="科创新源", quantity=400, price=29.66, action="sell", date="2025-07-03")   
     recorder.add_trade(person="jhh", stock_code="601606", stock_name="长城军工", quantity=100, price=31.0, action="buy", date="2025-07-02")
     recorder.add_trade(person="jhh", stock_code="600760", stock_name="中航沈飞", quantity=200, price=57.46, action="buy", date="2025-07-02")
     recorder.add_trade(person="jhh", stock_code="600456", stock_name="宝钛股份", quantity=200, price=32.38, action="buy", date="2025-07-02")
-    recorder.add_trade(person="jhh", stock_code="000733", stock_name="振华科技", quantity=900, price=49.9, action="buy", date="2025-07-02")
+    recorder.add_trade(person="jhh", stock_code="000733", stock_name="振华科技", quantity=1200, price=49.9, action="buy", date="2025-07-02")
     recorder.add_trade(person="jhh", stock_code="300030", stock_name="阳普医疗", quantity=300, price=8.5, action="buy", date="2025-07-02")
     recorder.add_trade(person="jhh", stock_code="000519", stock_name="中兵红箭", quantity=100, price=22.34, action="buy", date="2025-07-02")
     recorder.add_trade(person="jhh", stock_code="300293", stock_name="蓝英装备", quantity=200, price=27.12, action="buy", date="2025-07-02")
@@ -111,6 +129,7 @@ if __name__ == "__main__":
     recorder.add_trade(person="wzj", stock_code="03896", stock_name="金山云", quantity=2000, price=7.87, action="buy", date="2025-05-06")
     recorder.add_trade(person="jhh", stock_code="603496", stock_name="恒为科技", quantity=500, price=27.26, action="buy", date="2025-05-06")
     recorder.add_trade(person="wzj", stock_code="00981", stock_name="中芯国际", quantity=1000, price=45.65, action="buy", date="2025-05-06")
+    recorder.add_trade(person="jhh", stock_code="300576", stock_name="容大感光", quantity=300, price=0, action="buy", date="2025-04-25")
     recorder.add_trade(person="jhh", stock_code="300576", stock_name="容大感光", quantity=500, price=41.57, action="buy", date="2025-04-25")
     recorder.add_trade(person="wzj", stock_code="09988", stock_name="阿里巴巴-W", quantity=500, price=116.20, action="sell", date="2025-04-23")
     recorder.add_trade(person="wzj", stock_code="01810", stock_name="小米集团-W", quantity=200, price=47.90, action="sell", date="2025-04-23")
@@ -166,9 +185,9 @@ if __name__ == "__main__":
     recorder.add_trade(person="wzj", stock_code="002594", stock_name="比亚迪", quantity=100, price=301.96, action="buy", date="2024-11-06")
     recorder.add_trade(person="jhh", stock_code="300456", stock_name="赛微电子", quantity=1000, price=21.8, action="sell", date="2024-10-09")
     recorder.add_trade(person="jhh", stock_code="510300", stock_name="沪深300ETF", quantity=2000, price=4.51, action="buy", date="2024-10-08")
-    recorder.add_trade(person="jhh", stock_code="002236", stock_name="大华股份", quantity=2100, price=31.16, action="sell", date="2024-10-08")
+    recorder.add_trade(person="jhh", stock_code="002236", stock_name="大华股份", quantity=2100, price=18.2, action="sell", date="2024-10-08")
     recorder.add_trade(person="jhh", stock_code="300456", stock_name="赛微电子", quantity=1000, price=23.02, action="buy", date="2024-10-08")
-    recorder.add_trade(person="jhh", stock_code="300576", stock_name="容大感光", quantity=400, price=31.16, action="buy", date="2024-10-08")
+    recorder.add_trade(person="jhh", stock_code="300576", stock_name="容大感光", quantity=400, price=31.16, action="sell", date="2024-10-08")
     recorder.add_trade(person="jhh", stock_code="300456", stock_name="赛微电子", quantity=800, price=22.58, action="sell", date="2024-10-08")
     recorder.add_trade(person="jhh", stock_code="300456", stock_name="赛微电子", quantity=800, price=16.21, action="buy", date="2024-09-27")
     recorder.add_trade(person="jhh", stock_code="002236", stock_name="大华股份", quantity=1400, price=15.55, action="buy", date="2024-09-27")

@@ -1,11 +1,11 @@
 {
     "jhh": {
-        "cash": 701852.2,
+        "cash": 504634.19999999995,
         "300576": {
             "name": "容大感光",
-            "quantity": 2300,
-            "avg_price": 38.13608695652174,
-            "cur_price": 37.98
+            "quantity": 1800,
+            "avg_price": 35.314,
+            "cur_price": 38.15
         },
         "300456": {
             "name": "赛微电子",
@@ -17,25 +17,25 @@
             "name": "大华股份",
             "quantity": 0,
             "avg_price": 0.0,
-            "cur_price": 31.16
+            "cur_price": 18.2
         },
         "510300": {
             "name": "沪深300ETF",
             "quantity": 2000,
-            "avg_price": 4.51,
-            "cur_price": 4.203
+            "avg_price": 4.426,
+            "cur_price": 4.225
         },
         "603496": {
             "name": "恒为科技",
             "quantity": 1800,
-            "avg_price": 27.31,
-            "cur_price": 29.95
+            "avg_price": 27.306,
+            "cur_price": 28.62
         },
         "300077": {
             "name": "国民技术",
             "quantity": 1200,
-            "avg_price": 24.456666666666667,
-            "cur_price": 25.8
+            "avg_price": 24.471,
+            "cur_price": 25.52
         },
         "000878": {
             "name": "云南铜业",
@@ -58,8 +58,8 @@
         "300688": {
             "name": "创业黑马",
             "quantity": 100,
-            "avg_price": 36.29,
-            "cur_price": 34.59
+            "avg_price": 36.34,
+            "cur_price": 33.31
         },
         "300166": {
             "name": "东方国信",
@@ -70,20 +70,20 @@
         "300063": {
             "name": "天龙集团",
             "quantity": 4100,
-            "avg_price": 10.672682926829268,
-            "cur_price": 8.58
+            "avg_price": 10.681,
+            "cur_price": 8.56
         },
         "300276": {
             "name": "三丰智能",
             "quantity": 1500,
-            "avg_price": 14.466666666666667,
-            "cur_price": 11.07
+            "avg_price": 14.478,
+            "cur_price": 10.1
         },
         "000333": {
             "name": "美的集团",
             "quantity": 100,
-            "avg_price": 73.18,
-            "cur_price": 73.23
+            "avg_price": 73.23,
+            "cur_price": 71.13
         },
         "159338": {
             "name": "中证A500ETF",
@@ -100,8 +100,8 @@
         "09868": {
             "name": "小鹏汽车-W",
             "quantity": 200,
-            "avg_price": 73.725,
-            "cur_price": 75.3
+            "avg_price": 67.63,
+            "cur_price": 74.45
         },
         "02157": {
             "name": "乐普生物-B",
@@ -112,26 +112,26 @@
         "600760": {
             "name": "中航沈飞",
             "quantity": 0,
-            "avg_price": 0.0,
-            "cur_price": 60.89
+            "avg_price": 64.321,
+            "cur_price": 65.85
         },
         "601606": {
             "name": "长城军工",
             "quantity": 200,
             "avg_price": 30.795,
-            "cur_price": 28.72
+            "cur_price": 30.59
         },
         "600456": {
             "name": "宝钛股份",
             "quantity": 200,
-            "avg_price": 32.38,
-            "cur_price": 32.03
+            "avg_price": 32.015,
+            "cur_price": 31.97
         },
         "000733": {
             "name": "振华科技",
-            "quantity": 1400,
-            "avg_price": 49.95,
-            "cur_price": 49.09
+            "quantity": 700,
+            "avg_price": 49.861,
+            "cur_price": 48.89
         },
         "300030": {
             "name": "阳普医疗",
@@ -142,14 +142,14 @@
         "000519": {
             "name": "中兵红箭",
             "quantity": 100,
-            "avg_price": 22.34,
-            "cur_price": 21.74
+            "avg_price": 21.731,
+            "cur_price": 22.26
         },
         "300293": {
             "name": "蓝英装备",
             "quantity": 200,
-            "avg_price": 27.12,
-            "cur_price": 27.01
+            "avg_price": 25.881,
+            "cur_price": 26.49
         }
     }
 }
